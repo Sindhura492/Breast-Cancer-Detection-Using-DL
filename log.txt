@@ -1,1 +1,2 @@
 Initialize project and add README
+Add LICENSE and base folder structure
