@@ -2,3 +2,4 @@ Initialize project and add README
 Add LICENSE and base folder structure
 Add initial dataset (test_images)
 Implement preprocessing pipeline
+Add exploratory notebook for dataset
