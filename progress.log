@@ -2,3 +2,4 @@
 [data-prep] Add dataset directory and metadata structure
 [data-prep] Implement dataset loader for ultrasound images
 [data-prep] Add normalization function for pixel scaling
+[data-prep] Integrate augmentation pipeline (flip, rotate, zoom)
