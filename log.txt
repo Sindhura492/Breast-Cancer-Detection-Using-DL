@@ -4,3 +4,4 @@ Add initial dataset (test_images)
 Implement preprocessing pipeline
 Add exploratory notebook for dataset
 Normalize image input dimensions
+Integrate data augmentation utilities
