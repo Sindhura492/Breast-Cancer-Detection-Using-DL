@@ -7,3 +7,4 @@ Normalize image input dimensions
 Integrate data augmentation utilities
 Refactor scripts and add gitignore
 Add environment setup instructions
+Finalize preprocessing stage
