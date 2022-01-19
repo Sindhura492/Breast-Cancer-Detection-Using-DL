@@ -8,3 +8,4 @@
 [data-prep] Implement train/validation/test split function
 [data-prep] Add class balance summary CSV
 [data-prep] Fix path handling for dataset loading
+[data-prep] Add error handling for corrupted files
