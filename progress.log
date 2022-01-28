@@ -1,2 +1,3 @@
 [model-architecture] 
 [model-architecture] Add DenseNet121 base model initialization
+[model-architecture] Implement transfer learning with pretrained ImageNet weights
