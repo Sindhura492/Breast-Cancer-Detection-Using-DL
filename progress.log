@@ -3,3 +3,4 @@
 [model-architecture] Implement transfer learning with pretrained ImageNet weights
 [model-architecture] Add custom classification head (Dense layers + Dropout)
 [model-architecture] Set input image size to 256x256x3
+[model-architecture] Configure model compile with Adam optimizer
