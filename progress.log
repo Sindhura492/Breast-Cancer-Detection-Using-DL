@@ -15,3 +15,4 @@
 [data-prep] Add CLI for preprocessing execution
 [data-prep] Generate augmentation report and histogram plots
 [data-prep] Add docstrings and inline comments
+[data-prep] Update preprocessing section in README
