@@ -5,3 +5,4 @@
 [model-architecture] Set input image size to 256x256x3
 [model-architecture] Configure model compile with Adam optimizer
 [model-architecture] Add training and validation generator support
+[model-architecture] Integrate early stopping and checkpoint saving
