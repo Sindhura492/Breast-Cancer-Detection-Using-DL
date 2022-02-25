@@ -7,3 +7,4 @@
 [model-architecture] Add training and validation generator support
 [model-architecture] Integrate early stopping and checkpoint saving
 [model-architecture] Implement fine-tuning of top DenseNet layers
+[model-architecture] Add classification layer for 3 target classes
