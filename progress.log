@@ -8,3 +8,4 @@
 [model-architecture] Integrate early stopping and checkpoint saving
 [model-architecture] Implement fine-tuning of top DenseNet layers
 [model-architecture] Add classification layer for 3 target classes
+[model-architecture] Create model summary and layer freeze logs
