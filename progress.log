@@ -1,2 +1,3 @@
 [model-evaluation] 
 [model-evaluation] Add evaluation script for confusion matrix
+[model-evaluation] Integrate sklearn classification report
