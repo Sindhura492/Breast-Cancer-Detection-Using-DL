@@ -1,3 +1,4 @@
 [model-evaluation] 
 [model-evaluation] Add evaluation script for confusion matrix
 [model-evaluation] Integrate sklearn classification report
+[model-evaluation] Add precision, recall, F1-score computation
