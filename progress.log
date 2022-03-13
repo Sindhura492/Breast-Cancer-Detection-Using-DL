@@ -11,3 +11,4 @@
 [model-architecture] Create model summary and layer freeze logs
 [model-architecture] Fix loss function mismatch for categorical labels
 [model-architecture] Add model visualization and architecture plot
+[model-architecture] Document model configuration in README
