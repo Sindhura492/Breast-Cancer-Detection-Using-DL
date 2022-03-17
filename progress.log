@@ -12,3 +12,4 @@
 [model-architecture] Fix loss function mismatch for categorical labels
 [model-architecture] Add model visualization and architecture plot
 [model-architecture] Document model configuration in README
+[model-architecture] Refactor model.py for modular import
