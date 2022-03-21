@@ -3,3 +3,4 @@
 [model-evaluation] Integrate sklearn classification report
 [model-evaluation] Add precision, recall, F1-score computation
 [model-evaluation] Visualize confusion matrix with seaborn
+[model-evaluation] Add accuracy/loss comparison graphs
