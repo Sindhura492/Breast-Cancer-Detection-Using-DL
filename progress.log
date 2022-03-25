@@ -14,3 +14,4 @@
 [model-architecture] Document model configuration in README
 [model-architecture] Refactor model.py for modular import
 [model-architecture] Add reproducible training config file
+[model-architecture] Optimize batch size for GPU utilization
