@@ -15,3 +15,4 @@
 [model-architecture] Refactor model.py for modular import
 [model-architecture] Add reproducible training config file
 [model-architecture] Optimize batch size for GPU utilization
+[model-architecture] Log metrics per epoch to training log
