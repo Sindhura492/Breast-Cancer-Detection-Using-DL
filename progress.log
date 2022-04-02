@@ -6,3 +6,4 @@
 [model-evaluation] Add accuracy/loss comparison graphs
 [model-evaluation] Evaluate on test_images directory
 [model-evaluation] Document evaluation workflow in README
+[model-evaluation] Refactor evaluation into notebook format
