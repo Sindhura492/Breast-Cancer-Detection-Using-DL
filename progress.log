@@ -17,3 +17,4 @@
 [model-architecture] Optimize batch size for GPU utilization
 [model-architecture] Log metrics per epoch to training log
 [model-architecture] Add test accuracy and validation curves
+[model-architecture] Tune learning rate schedule for better convergence
