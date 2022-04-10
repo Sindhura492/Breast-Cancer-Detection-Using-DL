@@ -8,3 +8,4 @@
 [model-evaluation] Document evaluation workflow in README
 [model-evaluation] Refactor evaluation into notebook format
 [model-evaluation] Add confidence score calculation
+[model-evaluation] Fix color map for confusion matrix visualization
