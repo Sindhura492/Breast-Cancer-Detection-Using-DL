@@ -18,3 +18,4 @@
 [model-architecture] Log metrics per epoch to training log
 [model-architecture] Add test accuracy and validation curves
 [model-architecture] Tune learning rate schedule for better convergence
+[model-architecture] Finalize DenseNet121 fine-tuned model
