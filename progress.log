@@ -9,3 +9,4 @@
 [model-evaluation] Refactor evaluation into notebook format
 [model-evaluation] Add confidence score calculation
 [model-evaluation] Fix color map for confusion matrix visualization
+[model-evaluation] Add per-class accuracy breakdown
