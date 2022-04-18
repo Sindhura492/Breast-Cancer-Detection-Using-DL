@@ -10,3 +10,4 @@
 [model-evaluation] Add confidence score calculation
 [model-evaluation] Fix color map for confusion matrix visualization
 [model-evaluation] Add per-class accuracy breakdown
+[model-evaluation] Optimize evaluation speed
