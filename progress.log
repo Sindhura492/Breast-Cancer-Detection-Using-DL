@@ -20,3 +20,4 @@
 [model-architecture] Tune learning rate schedule for better convergence
 [model-architecture] Finalize DenseNet121 fine-tuned model
 [model-architecture] Export model weights to splitted_model directory
+[model-architecture] Add compression script for model splitting
