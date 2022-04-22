@@ -1,3 +1,4 @@
 [streamlit-app] 
 [streamlit-app] Initialize Streamlit app with basic layout
 [streamlit-app] Add file uploader for ultrasound image input
+[streamlit-app] Implement model inference pipeline in Streamlit
