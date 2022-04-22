@@ -11,3 +11,4 @@
 [model-evaluation] Fix color map for confusion matrix visualization
 [model-evaluation] Add per-class accuracy breakdown
 [model-evaluation] Optimize evaluation speed
+[model-evaluation] Add save-to-CSV for metrics
