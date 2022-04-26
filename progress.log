@@ -22,3 +22,4 @@
 [model-architecture] Export model weights to splitted_model directory
 [model-architecture] Add compression script for model splitting
 [model-architecture] Test model reload integrity
+[model-architecture] Finalize model architecture and checkpoints
