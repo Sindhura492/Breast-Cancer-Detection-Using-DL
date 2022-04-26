@@ -12,3 +12,4 @@
 [model-evaluation] Add per-class accuracy breakdown
 [model-evaluation] Optimize evaluation speed
 [model-evaluation] Add save-to-CSV for metrics
+[model-evaluation] Document evaluation results with plots
