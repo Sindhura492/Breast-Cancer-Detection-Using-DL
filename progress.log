@@ -13,3 +13,4 @@
 [model-evaluation] Optimize evaluation speed
 [model-evaluation] Add save-to-CSV for metrics
 [model-evaluation] Document evaluation results with plots
+[model-evaluation] Add support for multi-run comparison
