@@ -4,3 +4,4 @@
 [streamlit-app] Implement model inference pipeline in Streamlit
 [streamlit-app] Display class prediction with confidence score
 [streamlit-app] Add preprocessing step in inference
+[streamlit-app] Display uploaded image preview
