@@ -9,3 +9,4 @@ Refactor scripts and add gitignore
 Add environment setup instructions
 Finalize preprocessing stage
 Write detailed README with dataset and methods
+Add performance metrics and plots
