@@ -15,3 +15,4 @@
 [model-evaluation] Document evaluation results with plots
 [model-evaluation] Add support for multi-run comparison
 [model-evaluation] Finalize model evaluation section
+[model-evaluation] Generate evaluation report PDF
