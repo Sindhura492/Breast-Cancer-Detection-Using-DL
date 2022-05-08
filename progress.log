@@ -5,3 +5,4 @@
 [streamlit-app] Display class prediction with confidence score
 [streamlit-app] Add preprocessing step in inference
 [streamlit-app] Display uploaded image preview
+[streamlit-app] Add sidebar with model summary and accuracy
