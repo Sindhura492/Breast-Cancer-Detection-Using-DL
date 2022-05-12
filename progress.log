@@ -6,3 +6,4 @@
 [streamlit-app] Add preprocessing step in inference
 [streamlit-app] Display uploaded image preview
 [streamlit-app] Add sidebar with model summary and accuracy
+[streamlit-app] Implement class mapping and legend display
