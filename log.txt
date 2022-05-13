@@ -11,3 +11,4 @@ Finalize preprocessing stage
 Write detailed README with dataset and methods
 Add performance metrics and plots
 Include usage instructions for Streamlit app
+Finalize documentation and credits
