@@ -8,3 +8,4 @@
 [streamlit-app] Add sidebar with model summary and accuracy
 [streamlit-app] Implement class mapping and legend display
 [streamlit-app] Add matplotlib chart for prediction probabilities
+[streamlit-app] Integrate caching for model load performance
