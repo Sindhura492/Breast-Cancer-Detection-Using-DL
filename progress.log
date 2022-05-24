@@ -9,3 +9,4 @@
 [streamlit-app] Implement class mapping and legend display
 [streamlit-app] Add matplotlib chart for prediction probabilities
 [streamlit-app] Integrate caching for model load performance
+[streamlit-app] Add error handling for invalid images
