@@ -11,3 +11,4 @@
 [streamlit-app] Integrate caching for model load performance
 [streamlit-app] Add error handling for invalid images
 [streamlit-app] Implement dark/light mode toggle
+[streamlit-app] Add footer with disclaimer and license
