@@ -13,3 +13,4 @@
 [streamlit-app] Implement dark/light mode toggle
 [streamlit-app] Add footer with disclaimer and license
 [streamlit-app] Integrate link to GitHub repo
+[streamlit-app] Optimize layout for mobile devices
