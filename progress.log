@@ -14,3 +14,4 @@
 [streamlit-app] Add footer with disclaimer and license
 [streamlit-app] Integrate link to GitHub repo
 [streamlit-app] Optimize layout for mobile devices
+[streamlit-app] Refactor code for modular UI sections
