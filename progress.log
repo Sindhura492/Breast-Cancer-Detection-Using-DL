@@ -16,3 +16,4 @@
 [streamlit-app] Optimize layout for mobile devices
 [streamlit-app] Refactor code for modular UI sections
 [streamlit-app] Add app requirements.txt
+[streamlit-app] Add Dockerfile for deployment
