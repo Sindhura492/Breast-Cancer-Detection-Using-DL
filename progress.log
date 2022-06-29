@@ -18,3 +18,4 @@
 [streamlit-app] Add app requirements.txt
 [streamlit-app] Add Dockerfile for deployment
 [streamlit-app] Test deployment locally and fix path issues
+[streamlit-app] Document app usage in README
