@@ -1,0 +1,13 @@
+Initialize project structure and README
+Add LICENSE and requirements.txt
+Add initial dataset folder and test_images
+Implement basic preprocessing pipeline
+Add exploratory data analysis notebook
+Clean dataset and normalize image dimensions
+Integrate data augmentation functions
+Refactor folder structure for clarity
+Add gitignore and environment setup
+Document preprocessing in README
+Validate image loader with sample data
+Add color normalization utilities
+Finalize data-preprocessing.py script

@@ -1,0 +1,10 @@
+  data-prep
+* main
+  model-architecture
+  model-evaluation
+  streamlit-app
+  remotes/origin/data-prep
+  remotes/origin/main
+  remotes/origin/model-architecture
+  remotes/origin/model-evaluation
+  remotes/origin/streamlit-app
